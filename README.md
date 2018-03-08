@@ -42,8 +42,6 @@ If you want to use the latest dev build then you need to:
 
 Prerelease tooling builds for Visual Studio are available from the [Tooling](https://github.com/aspnet/tooling/#pre-release-builds) repo.
 
-
-
 ## Community and roadmap
 
 To follow along with the development of ASP.NET Core:
